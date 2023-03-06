@@ -1,6 +1,6 @@
 package arrays;
 
-public class C01 {
+public class abdullah {
     public static void main(String[] args) {
         System.out.println("abdullah");
     }
