@@ -1,6 +1,6 @@
 package arrays;
 
-public class Benim_Class {
+public class Benim_Class_ayse {
 
 
     public static void main(String[] args) {
